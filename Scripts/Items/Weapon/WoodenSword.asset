@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5346ba8bfeb5ef4bbfd661801e67e6b, type: 3}
+  m_Name: WoodenSword
+  m_EditorClassIdentifier: 
+  objPrefab: {fileID: 8973626800443684735, guid: 29d207d8054539844be1e212ca132af6, type: 3}
+  itemName: "\u6728\u306E\u5263"
+  itemValue: 500
+  itemSklAmount: 50
+  weaponPow: 15
+  icon: {fileID: 21300002, guid: b217a154a8231e54bbb50405bdfafbaf, type: 3}
